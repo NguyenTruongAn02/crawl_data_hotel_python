@@ -1,0 +1,847 @@
+[
+  {
+    "name": "Khu nghỉ dưỡng Meliá Ba Vì Mountain Retreat",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/melia-ba-vi-mountain-retreat",
+    "stars": 5,
+    "point": "9.4",
+    "avg_price": "N/A",
+    "rooms": [
+      {
+        "room_name": "Deluxe",
+        "area": "45 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Premium",
+        "area": "48 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Junior Suite",
+        "area": "60 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite",
+        "area": "65 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Twin/Double room - Premium",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Grand Suite",
+        "area": "95 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Family Master Suite",
+        "area": "82 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "THE LEVEL, JUNIOR SUITE",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "GRAND, THE LEVEL, SUITE",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite - Family - Junior",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Villa 3 Bedrooms with Pool",
+        "area": "100 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Villa 5 Bedrooms with Pool",
+        "area": "150 m²",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Khách sạn Capella Hà Nội",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/khach-san-capella-ha-noi",
+    "stars": 5,
+    "point": "10",
+    "avg_price": "N/A",
+    "rooms": [
+      {
+        "room_name": "Junior Suite",
+        "area": "59 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Premier Suite",
+        "area": "67 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe Suite",
+        "area": "71 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "1 X Junior Suite [BedType: 1 Double or 1 Twin]",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Capella Suite",
+        "area": "83 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Opera Suite",
+        "area": "194 m²",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Khách sạn Sheraton Hà Nội",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/khach-san-sheraton-ha-noi",
+    "stars": 5,
+    "point": "10",
+    "avg_price": "5.200.500",
+    "rooms": [
+      {
+        "room_name": "Guest room, 2 Twin, High floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room, 2 Twin",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest Room Two Twin High floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest Room Two Twin",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room, 1 King, High floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest Room King High Floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room, 2 Twins",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room, 2 Twin Beds",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "ROOM, TWIN BEDS",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room 2 Twin Beds 2 Twin Beds",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room, 1 King, High floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room - 2 Twin",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Twin room",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room, 1 King Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "ROOM, KING BED",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "GUEST ROOM, TWIN BEDS",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room, 2 Twin Beds 2 Twin Beds",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room 1 King Bed 1 King Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "King Room",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room, 1 King",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest Double room (twin beds)",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "GUEST ROOM, KING BED",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room, 1 King Bed 1 King Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Club level, Guest room, 1 King",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest Room, 2 Twin, High Floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room, 2 Twin",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Double room King bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest Room King Club",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room, 2 Twin, High floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest Double room (full double bed) (king size bed)",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room, 2 Twins, High floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest Room 2 Twin High Floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room 2 Twin",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Club level, Guest room, 1 King",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Club Room, 1 King Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "CLUB, KING BED",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe",
+        "area": "37 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room - 2 Twin, Lake View, Highfloor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Guest room 1 King High floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Club Room 1 King Bed 1 King Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Club, King",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Club Room 1 King Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Double room King bed - Grand De Luxe",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "King Room, Lake View, Highfloor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Club Room, 1 King Bed 1 King Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "1 X Room, 1 King Bed, Non Smoking",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Double room King bed - High floor",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Double room King bed - Club room",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Club level Guest room 1 King",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "1 X club level, guest room, 1 king(Lake view)",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Double room King bed - Club Level",
+        "area": "",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Khách sạn Dusit Le Palais Từ Hoa Hà Nội",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/khach-san-dusit-le-palais-tu-hoa-ha-noi",
+    "stars": 5,
+    "point": "",
+    "avg_price": "3.504.500",
+    "rooms": [
+      {
+        "room_name": "Superior Balcony",
+        "area": "28 - 31 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior 2 Doubles",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "One Bedroom Suite",
+        "area": "51 - 55 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior Room",
+        "area": "28 - 31 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe Room",
+        "area": "34 - 38 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe Balcony Room",
+        "area": "41 - 42 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe Corner Room",
+        "area": "43 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Junior Suite",
+        "area": "50 - 56 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Junior Balcony Suite",
+        "area": "48 - 58 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "One Bedroom Balcony Suite",
+        "area": "51 - 55 m²",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Khách sạn M Village Thợ Nhuộm Hà Nội",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/khach-san-m-village-hotel-tho-nhuom-ha-noi",
+    "stars": 3,
+    "point": "10",
+    "avg_price": "1.110.000",
+    "rooms": [
+      {
+        "room_name": "Superior",
+        "area": "22 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior balcony",
+        "area": "22 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior Twin Balcony",
+        "area": "22 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior City view",
+        "area": "22 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe City view",
+        "area": "25 m²",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Khách sạn Novotel Hà Nội Thái Hà",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/novotel-ha-noi-thai-ha",
+    "stars": 4,
+    "point": "10",
+    "avg_price": "N/A",
+    "rooms": [
+      {
+        "room_name": "Superior",
+        "area": "31 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe",
+        "area": "48 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "One Bedroom",
+        "area": "59 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "One Bedroom With Sofa",
+        "area": "59 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suites | 1 Khách",
+        "area": "81 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suites",
+        "area": "81 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "APARTMENT Executive Apartment With 1 King Size Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment, 1 King size bed, City view",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment, 1 King size bed, City view",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "EXECUTIVE, APARTMENT, KING BED, CITY VIEW",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment With 1 King Size Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment, 1 King Size Bed, City View",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Room Assigned on Arrival",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive King Apartment",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment, 1 King Bed, City View",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "APARTMENT Executive Apartment With 1 King Size Bed And 1 Sofa",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Căn Hộ Executive",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment, 1 King size bed and 1 sofa , City view, Lounge access",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment, 1 King size bed and 1 sofa , City view, Lounge access",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment with 1 King size bed and terrace",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment, 1 King size bed and 1 sofa, City view, Lounge access",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "EXECUTIVE, APARTMENT, KING BED, CITY VIEW, SOFA, LOUNGE ACCESS",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "EXECUTIVE, APARTMENT, KING BED, TERRACE",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "EXECUTIVE, APARTMENT, KING BED",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment With 1 King Size Bed And Terrace",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment With 1 King Size Bed And 1 Sofa",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Apartment - Executive - Terrace",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Apartment - Executive - City view",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive King Apartment With Sofa Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Apartment, 1 King Bed with Sofa bed, City View (Lounge Access)",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "EXECUTIVE, APARTMENT, KING BED, SOFA",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "EXECUTIVE, APARTMENT",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Studio - Executive",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite Superior Có Giường Cỡ King",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite, 1 King size bed, City view, Lounge access",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "SUITE, KING BED, CITY VIEW, LOUNGE ACCESS",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite, 1 King Size Bed, City View, Lounge Access",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "SUITE SUPERIOR KING BED",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior Suite With 1 King Size Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior King Suite",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite - Superior",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "SUPERIOR, SUITE, KING BED",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite - King bed - City View",
+        "area": "",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Le Jardin Hotel & Spa Hà Nội",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/hanoi-le-jardin-hotel-spa",
+    "stars": 4,
+    "point": "10",
+    "avg_price": "1.760.000",
+    "rooms": [
+      {
+        "room_name": "Cozy Le Jardin Classic",
+        "area": "21 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe City View",
+        "area": "28 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Premium the Level Double",
+        "area": "35 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Family Suite",
+        "area": "50 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Sky Executive Suite",
+        "area": "60 m²",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Khách sạn The Chi Boutique Hà Nội",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/khach-san-the-chi-ha-noi",
+    "stars": 4,
+    "point": "9.8",
+    "avg_price": "N/A",
+    "rooms": [
+      {
+        "room_name": "Standard",
+        "area": "20 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Standard City View",
+        "area": "17 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior",
+        "area": "28 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior Plus",
+        "area": "30 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior Balcony",
+        "area": "35 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe",
+        "area": "30 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive",
+        "area": "35 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite",
+        "area": "46 m²",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Khách sạn The Ann Hotel & Spa Hà Nội",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/khach-san-the-ann-ha-noi",
+    "stars": 4,
+    "point": "10",
+    "avg_price": "2.100.000",
+    "rooms": [
+      {
+        "room_name": "City Room",
+        "area": "30 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Premium",
+        "area": "34 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Lounge Premium",
+        "area": "36 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Terrace Premium",
+        "area": "38 m²",
+        "price": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Khách sạn Flower Garden Hà Nội",
+    "link": "https://www.ivivu.com/khach-san-ha-noi/khach-san-flower-garden-ha-noi",
+    "stars": 4,
+    "point": "9.4",
+    "avg_price": "1.485.000",
+    "rooms": [
+      {
+        "room_name": "Superior Double",
+        "area": "28 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior Twin",
+        "area": "28 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe Double",
+        "area": "32 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Deluxe Twin",
+        "area": "32 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Superior Room, 1 Double Bed",
+        "area": "",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Executive Deluxe Double",
+        "area": "38 m²",
+        "price": "N/A"
+      },
+      {
+        "room_name": "Suite Double",
+        "area": "70 m²",
+        "price": "N/A"
+      }
+    ]
+  }
+]
