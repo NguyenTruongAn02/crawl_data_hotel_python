@@ -8,6 +8,7 @@ import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
 
+
 def run_phase2():
     with open("data/hotel_links.json", encoding="utf-8") as f:
         hotels = json.load(f)
@@ -17,14 +18,14 @@ def run_phase2():
     options.add_argument("--window-size=1920,1080")
 
     driver = webdriver.Chrome(options=options)
-    wait = WebDriverWait(driver, 25)
+    wait = WebDriverWait(driver, 15)
 
     results = []
 
     for i, h in enumerate(hotels):
         print(f"[{i+1}/{len(hotels)}] {h['name']}")
         driver.get(h["link"])
-        time.sleep(random.uniform(6, 10))
+        time.sleep(random.uniform(3, 7))
 
         try:
             wait.until(

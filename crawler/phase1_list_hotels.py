@@ -15,23 +15,24 @@ def run_phase1():
     options.add_argument("--window-size=1920,1080")
 
     driver = webdriver.Chrome(options=options)
-    wait = WebDriverWait(driver, 30)
+    wait = WebDriverWait(driver, 5)
 
     driver.get("https://www.ivivu.com/khach-san-ha-noi")
-    time.sleep(6)
+    time.sleep(3)
 
     hotels = []
     MAX_HOTELS = 10
 
-    while len(hotels) < MAX_HOTELS:
+    # while len(hotels) < MAX_HOTELS:
+    while True:
         wait.until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, "iv-product-view"))
         )
         cards = driver.find_elements(By.CSS_SELECTOR, "iv-product-view")
 
         for c in cards:
-            if len(hotels) >= MAX_HOTELS:
-                break
+            # if len(hotels) >= MAX_HOTELS:
+            #     break
             try:
                 name = c.find_element(By.CSS_SELECTOR, ".pdv__hotel--name").text.strip()
                 link = c.find_element(By.TAG_NAME, "a").get_attribute("href")
